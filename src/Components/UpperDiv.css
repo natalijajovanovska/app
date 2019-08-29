@@ -1,0 +1,25 @@
+.unused{
+    height: 70px;
+    background-color: transparent;
+}
+.upper-custom{
+    height: 20rem;
+    background-color: #c0140bd5;
+}
+.row-center-upper{
+    height: 100%;
+}
+.custom-font{
+    font-family: 'Dancing Script', cursive;
+    color: white;
+}
+.btn-custom{
+    font-family: 'Dancing Script', cursive;
+    font-size: 20px;
+    border-radius: 50px;
+    width: 12rem;
+}
+.btn-custom:focus{
+    outline: none;
+    box-shadow: none;
+}

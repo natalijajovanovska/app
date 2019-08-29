@@ -1,0 +1,25 @@
+.navbar-custom{
+    height: 70px;
+    border-bottom: 1px solid rgba(0, 0, 0, 0.1);
+    background-image: linear-gradient(to bottom right,tomato, rgb(164,25,0));
+    padding-top: 0;
+    position: absolute;
+    /* position: fixed; */
+    top: 0;
+    left: 0;
+    /* width: 100vw; */
+    /* z-index: 99999; */
+    
+}
+.navbar-custom > div{
+    height: 70px;
+    margin-top: 0;  
+}
+.logo-custom{
+    height: auto;
+    width: auto;
+    max-height: 70px;
+    max-width: 250px;
+    margin: 0;
+}
+

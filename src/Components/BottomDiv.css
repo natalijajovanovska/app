@@ -1,0 +1,6 @@
+.img-bottom{
+    max-width: 7rem;
+}
+.img-bottom:hover{
+    cursor: pointer;
+}

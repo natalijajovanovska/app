@@ -1,0 +1,12 @@
+.footer-custom{
+    height: 50px;
+    border-top: 1px solid rgba(0, 0, 0, 0.1);
+    background-image: linear-gradient(to bottom left,tomato, rgb(164,25,0));
+}
+.footer-custom > div {
+    height: 50px;
+}
+.footer-custom h6{
+    color: white;
+    font-size: 13px;
+}
